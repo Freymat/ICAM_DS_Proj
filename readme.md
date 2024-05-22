@@ -1,5 +1,5 @@
-# Projet Data Science
-
+# Projet Data Science: Classification d'allergènes
+Étude de la **base de données Open Food Facts** et **classification des allergènes** en utilisant plusieurs modèles de machine learning, de l'arbre de décision au réseau de neurones récurrent LSTM.
 ## Résumé
 Ce projet individuel a été réalisé en 10 jours dans le cadre de ma formation en Data Science à l'[ICAM](https://www.icam.fr/les-campus/strasbourg-europe/) .
 L'objectif était la conception d'une application au service de la santé publique, en proposant une idée innovante d’application en lien avec l’alimentation pour l’agence Santé Publique France. À notre disposition, la base de données [Openfoodfacts](https://fr.openfoodfacts.org/).
